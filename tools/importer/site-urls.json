@@ -4,6 +4,144 @@
   "lastCrawled": "https://www.pfa.dk/privat/",
   "urls": [
     {
+      "url": "https://www.pfa.dk/andet/din-kundeoplevelse/",
+      "source": "CRAWL",
+      "targetPath": "/andet/din-kundeoplevelse",
+      "id": "61c929ad4427b926642399413622fc941f06b298"
+    },
+    {
+      "url": "https://www.pfa.dk/andet/finanstilsyn/",
+      "source": "CRAWL",
+      "targetPath": "/andet/finanstilsyn",
+      "id": "4e2f98792d674e174d5f87298efde87bd2fa285a"
+    },
+    {
+      "url": "https://www.pfa.dk/andet/legitimation/",
+      "source": "CRAWL",
+      "targetPath": "/andet/legitimation",
+      "id": "be70d69e09f8f5d741e492c17f07a24d1060c5cf"
+    },
+    {
+      "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
+      "source": "CRAWL",
+      "targetPath": "/andet/nye-investeringsprofiler",
+      "id": "f710a2af63fb70796d4f2ab0ed235d758cdeff56"
+    },
+    {
+      "url": "https://www.pfa.dk/andet/produktinformation/",
+      "source": "CRAWL",
+      "targetPath": "/andet/produktinformation",
+      "id": "9ee1759622a794ef5c694395e36c41ae166f4cf4"
+    },
+    {
+      "url": "https://www.pfa.dk/andet/saerlige-undersoegelser/",
+      "source": "CRAWL",
+      "targetPath": "/andet/saerlige-undersoegelser",
+      "id": "3ee4b87425686160dd6e60197693c281296328d0"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv",
+      "id": "6dbd0e883e331188e1ca7f674ce9de225f7ef1d0"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/bliv-kunde/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/bliv-kunde",
+      "id": "dea7fc010945a4cd047c55b6aebaf512976d7c7d"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/konkurrencedygtige-omkostninger/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/hvorfor-pfa/konkurrencedygtige-omkostninger",
+      "id": "e8793670d3f5ff509c97efef6fe2a06c1b6f4acf"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-kundekapital/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/hvorfor-pfa/pfa-kundekapital",
+      "id": "b8ccecb4cc59aaba4d45e1b45fbde521072f2947"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-som-partner/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/hvorfor-pfa/pfa-som-partner",
+      "id": "44dfa26b6466b39313fdf8bb581a0e0dc5c1067d"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/raadgivning/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/hvorfor-pfa/raadgivning",
+      "id": "43f92a33553c818739d820ec095bfde1e137e38d"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/digital-trivselsraadgiver/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/digital-trivselsraadgiver",
+      "id": "bc6b3689dab607d11042d749256165c901e5ab3c"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/earlycare/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/earlycare",
+      "id": "7776c6ccb7fa4450d2ef97a84d71048951b7fd20"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/hr-ledersparring/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/hr-ledersparring",
+      "id": "85f307064f7e2a2ab925946955c8b8074c2ae230"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/online-sundhedshjaelp/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/online-sundhedshjaelp",
+      "id": "a1481dc10ca4c2a55dcd85f04ef2c622de9691bf"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/overblik/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/overblik",
+      "id": "cb0c560420cad1dcf23df59d8a05bfbb7ff2cc75"
+    },
+    {
+      "url": "https://www.pfa.dk/erhverv/sundhed/sundhed-trivsel-paa-agendaen/",
+      "source": "CRAWL",
+      "targetPath": "/erhverv/sundhed/sundhed-trivsel-paa-agendaen",
+      "id": "f2c71463fa67c089c3b573e21122f8bb9aceeced"
+    },
+    {
+      "url": "https://www.pfa.dk/om-pfa/",
+      "source": "CRAWL",
+      "targetPath": "/om-pfa",
+      "id": "33a005a8f60afd13376dc63e48ebca794a19bf03"
+    },
+    {
+      "url": "https://www.pfa.dk/om-pfa/finansiel-information/omkostninger-og-priser/",
+      "source": "CRAWL",
+      "targetPath": "/om-pfa/finansiel-information/omkostninger-og-priser",
+      "id": "224fca254cc04866cf6fe6c4bd3deb04f29b4d6c"
+    },
+    {
+      "url": "https://www.pfa.dk/om-pfa/job-i-pfa/ledige-job/",
+      "source": "CRAWL",
+      "targetPath": "/om-pfa/job-i-pfa/ledige-job",
+      "id": "a137914c06b4ba9cf04aa3f0e8e1728f8a31fcc0"
+    },
+    {
+      "url": "https://www.pfa.dk/om-pfa/job-i-pfa/ledige-job/?icid=linklist_nyttigelinks_ledigestillingeripfa",
+      "source": "CRAWL",
+      "targetPath": "/om-pfa/job-i-pfa/ledige-job",
+      "id": "666a08e04f80a3d048c2380f7f91243a3af7ccd0"
+    },
+    {
+      "url": "https://www.pfa.dk/om-pfa/samfundsansvar/indsatser-paa-tvaers/",
+      "source": "CRAWL",
+      "targetPath": "/om-pfa/samfundsansvar/indsatser-paa-tvaers",
+      "id": "9fe81909503da374db19201c9eb7e43d4e05e58c"
+    },
+    {
       "url": "https://www.pfa.dk/privat/",
       "source": "CRAWL",
       "targetPath": "/privat",
