@@ -1,0 +1,476 @@
+{
+  "templates": [
+    {
+      "name": "'Corporate Multipurpose Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/om-pfa/samfundsansvar/indsatser-paa-tvaers/",
+          "uuid": "9fe81909503da374db19201c9eb7e43d4e05e58c"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/overblik/",
+          "uuid": "cb0c560420cad1dcf23df59d8a05bfbb7ff2cc75"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/online-sundhedshjaelp/",
+          "uuid": "a1481dc10ca4c2a55dcd85f04ef2c622de9691bf"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/raadgivning/",
+          "uuid": "43f92a33553c818739d820ec095bfde1e137e38d"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/digital-trivselsraadgiver/",
+          "uuid": "bc6b3689dab607d11042d749256165c901e5ab3c"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/sundhed-trivsel-paa-agendaen/",
+          "uuid": "f2c71463fa67c089c3b573e21122f8bb9aceeced"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/konkurrencedygtige-omkostninger/",
+          "uuid": "e8793670d3f5ff509c97efef6fe2a06c1b6f4acf"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-som-partner/",
+          "uuid": "44dfa26b6466b39313fdf8bb581a0e0dc5c1067d"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-kundekapital/",
+          "uuid": "b8ccecb4cc59aaba4d45e1b45fbde521072f2947"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/hr-ledersparring/",
+          "uuid": "85f307064f7e2a2ab925946955c8b8074c2ae230"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/earlycare/",
+          "uuid": "7776c6ccb7fa4450d2ef97a84d71048951b7fd20"
+        }
+      ]
+    },
+    {
+      "name": "'Content Hub'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "uuid": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/",
+          "uuid": "109d2b1ef4db84ec2e6cd8efb3e585e7f9010ab7"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/",
+          "uuid": "6dbd0e883e331188e1ca7f674ce9de225f7ef1d0"
+        },
+        {
+          "url": "https://www.pfa.dk/om-pfa/",
+          "uuid": "33a005a8f60afd13376dc63e48ebca794a19bf03"
+        },
+        {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "uuid": "7b9abf876e73829072ca7a5724063c2844df9664"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "uuid": "926656ae927c6c50c91e0c9c8d60783563610dc6"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/din-kundeoplevelse/",
+          "uuid": "61c929ad4427b926642399413622fc941f06b298"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "uuid": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/finanstilsyn/",
+          "uuid": "4e2f98792d674e174d5f87298efde87bd2fa285a"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/produktinformation/",
+          "uuid": "9ee1759622a794ef5c694395e36c41ae166f4cf4"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "uuid": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/saerlige-undersoegelser/",
+          "uuid": "3ee4b87425686160dd6e60197693c281296328d0"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/legitimation/",
+          "uuid": "be70d69e09f8f5d741e492c17f07a24d1060c5cf"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/aktivsammensaetning/",
+          "uuid": "98ff691367671cfa69ede1f5d0f986913825e229"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast/",
+          "uuid": "a555abd2973e1080685a8c72af2327da5364a66a"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/risikomaerkning/",
+          "uuid": "84d873f642b401a49aa03825dd5e328401e3ce23"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "uuid": "9c1f9638895128a3afd0e32ab486ef210d656bfe"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/sparekstraop/",
+          "uuid": "fe0d05cbcf9ffbffb38da478e7cbc5f6126665eb"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/planlaeg-din-opsparing/",
+          "uuid": "b9daddce64c17dd256536850fe20174b056b7707"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
+          "uuid": "df96368dac2d401042d3cfa21b3a0fa0af14c6b0"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
+          "uuid": "fc1e976f43d57e9ceacdae3857be611fe4aea880"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-investerer/",
+          "uuid": "298691005166913d62544fb3805d6d7ab6f6bd59"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/saml-dine-pensionsopsparinger/",
+          "uuid": "9f499cd3d14e07e7763bc32ccb337d68b4073ed0"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/udbetaling-af-pension/",
+          "uuid": "9792efed4d0b71025ec1c9d4d98b4e2d0b192ed4"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/opsparingsformer/",
+          "uuid": "e5476f6fff0392c9ebca091a887891498140b79e"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/hvad-er-en-pensionsopsparing/",
+          "uuid": "e21795e8cf3c19ef9d53253d674efa55b85c0255"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-plus-fri/",
+          "uuid": "eac8783b4cfe4dd8175ae8552f63299a46df890a"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
+          "uuid": "09a46beb0e7314f6e93ca56bc3a1a780d67e17a4"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/begunstigelse/",
+          "uuid": "41ff4838cef884b2a143471516f62b587f81d234"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-kundekapital/",
+          "uuid": "6772e48d8fb83f4ded061e9eff53dd9ea8114b7d"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/opsparing-i-gennemsnitsrente/",
+          "uuid": "aabec4b73b53599039a2302d005ed7f98c95dd95"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/skatteregler/",
+          "uuid": "91b0c288f5058d60137b7131e4315108700a83c6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/investeringsformer/",
+          "uuid": "3fde3a8b7a528182c1c751f0100189055d4a4639"
+        }
+      ]
+    },
+    {
+      "name": "Business Homepage",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/?icid=linklist_nyttigelinks_brugdineforsikringeranmeldskade",
+          "uuid": "37b539c1c015399a5c6903359f9eb4c5864b712f"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/?icid=spot_detgodeseniorlivskaberviifaeligllesskab_faainspirationher",
+          "uuid": "54ad7da47edad93112fb3c50e8ea5dfe439c6303"
+        }
+      ]
+    },
+    {
+      "name": "'Video Content Hub'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/",
+          "uuid": "9faeb9ffff637d45cb754c0351b9f116c6d127a6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-seniorboliger/",
+          "uuid": "ae49173605b8366c384185a41e141dad06d2dcf5"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/pfa-helbredssikring/?icid=linklist_nyttigelinks_brugfordinhelbredssikringlaesmere",
+          "uuid": "261c428faa00c1d8aad9fa401b5bd38935cd1334"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/pfa-helbredssikring/",
+          "uuid": "aa5feb32cad42af4892587d5f68bad6a7921d340"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
+          "uuid": "eb9098d99cd8735689a3a4dc1dfac402f789bfba"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
+          "uuid": "52efe10cab78a80249d9c98b52627cbe27ce9fe4"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/",
+          "uuid": "aa4cfcea77c0c83878edbd0faefdc66305767735"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "uuid": "2bd642737289fe80569bb4b8f2d7ece3835d3617"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/podcast/",
+          "uuid": "005de046f49cb0854fc576bea850d215d508c9ff"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/?icid=hero_spanclassheronukandunemtoghurtigtfaringonlinesundhedshjaeliglpspanstylemediamaxwidthspanherofontsizepxmediaminwidthpxspanherofontsizepxlineheightpxpaddingbottompxdisplayblockstyle_laesmere",
+          "uuid": "8883813507a59fbe098f8107f1ba2387d7415fc8"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/",
+          "uuid": "b567b6b24d94af44df370ddfa4571bdd039857f8"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/pfa-helbredssikring-60-79/?icid=linklist_nyttigelinks_pfahelbredssikringtildigfraaar",
+          "uuid": "0cdee02058fa9503b1e5709c39aadab7b989adcf"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/kf-forsikring/",
+          "uuid": "b6c69050ddd904b06d1ace212dc2306816db94e6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/friplejehjem/",
+          "uuid": "8084c18eca26f51eb699050f6875f0709f7a6e2d"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/kurser/",
+          "uuid": "0d8efe32f9834dcb0b68477a1d5b3e8e07c482e8"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
+          "uuid": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
+          "uuid": "2acc991635fafb69876dd16fc25b2168e450ead7"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/raadgivning/",
+          "uuid": "981f5a8b98029a4cb7669c1b2543506f95b98e2b"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/raadgivning/?icid=quicklink_sundhedforsikringer_faaraadgivning",
+          "uuid": "126a46720cb1759aadcbfeb25caec1ed587e7ad6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/raadgivning/?icid=quicklink_pensionsopsparing_faaraadgivning",
+          "uuid": "5987ceef1b4ecf30a5d007abbc9aa137f898d667"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/er-du-ok/",
+          "uuid": "3114b18789261760d1642fcf0b16bf42a2d8b004"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-giftes",
+          "uuid": "0d0ceafb3c6b4e34d99561bb736bf1af720e1179"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-faar-boern/",
+          "uuid": "74d80184839600fc0b354118372f499cbf87e074"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/mistrives-dit-barn/",
+          "uuid": "62f21dc5364c4d28a2079a02cea1aec487d1261f"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/fysiske-kurser/",
+          "uuid": "5a9d66aacdd5fe2bbdc6b70cac47a55ed3bca10b"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/dine-fordele-i-pfa/?icid=quicklink_kundefordele_faaoverblikoverdinefordele",
+          "uuid": "7a3bff4662a2cbb3fe53a22a0e7227a03cebe107"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/",
+          "uuid": "520839b5c2746e425ad174dc3538d7330647c856"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/testamenteservice/",
+          "uuid": "322cb538372f072c95309c758c84134d6304801e"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/symptomer-paa-stress/",
+          "uuid": "9873826f74d5d1a81e48579f2046f72c70c737af"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/har-du-smerter/",
+          "uuid": "8f5aca46dac08fa00f8e251e673bef01622e03aa"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
+          "uuid": "7cedbb129ad277682cbb7726825d842a333363e0"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
+          "uuid": "c4f29f06219a89f3af90baed39fe64a298a0a6b6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/ved-alvorlig-sygdom/",
+          "uuid": "f33de0d384ceb9287ea9f80c7cf5348624fabb20"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-faar-bonus-eller-loenforhoejelse/",
+          "uuid": "9286757e73e5c63aabe2edc2b25c86e9b97c4cd6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-udstationeres/",
+          "uuid": "59dd618f6ed22ab9afbbaa6706e9a1eb84f217ff"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/hjaelp-til-at-leve-sundere/?icid=quicklink_sundhedforsikringer_faagratissundhedsraadgivning",
+          "uuid": "6cfdf7b2a1245b301db2ca805fd0a6255f2ebf7b"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/hjaelp-til-at-leve-sundere/",
+          "uuid": "176810a11eda53d05a6e2f22ce8d4bcf69cf6f28"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/er-du-blevet-sygemeldt/",
+          "uuid": "62f959a3833bcd22cbbf7db58c058018b7e27705"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/du-kan-ikke-laengere-arbejde/",
+          "uuid": "9a5bc09694d07f32c7df737fe45229a3ef1daaf8"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-tager-orlov/",
+          "uuid": "6482bc6f13e4776aac86427aa0bd8445f53b4717"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-har-faaet-nyt-job/",
+          "uuid": "c7e49f55e2939de1ee11def34b97c73269af1cf6"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/hvis-du-doer-inden-pensionsalderen/",
+          "uuid": "8f07b07758780bb6bd1a9fdb7fd6d95ecaee1b70"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/du-bliver-arbejdsloes/",
+          "uuid": "6c900ed39fd3fdcaeab75be68652497fffa1b158"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/udbetaling-til-dine-efterladte/",
+          "uuid": "43790b378b4f52301ae5d92b50a6bac866766f99"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/hvis-du-bliver-alvorligt-syg/",
+          "uuid": "dd08b323ac002c0db0203cd5f42ebb2e87f6190f"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/saadan-faar-du-hjaelp/",
+          "uuid": "172cd49addf4b5985703e0344184b814e8944c1f"
+        }
+      ]
+    },
+    {
+      "name": "'Profile Page'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "uuid": "5380fc5d32ca1b97cc89416e2908a80196391dea"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-section Landing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/erhverv/bliv-kunde/",
+          "uuid": "dea7fc010945a4cd047c55b6aebaf512976d7c7d"
+        }
+      ]
+    },
+    {
+      "name": "Portfolio Showcase",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "uuid": "8c390bd289bf023c9696fa16be1ba9df566d2066"
+        }
+      ]
+    },
+    {
+      "name": "\"Portfolio Showcase\"",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "uuid": "d72c95974bd3d3539c209df809ec8d7bec040e08"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
+          "uuid": "f710a2af63fb70796d4f2ab0ed235d758cdeff56"
+        }
+      ]
+    },
+    {
+      "name": "'news portal'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.pfa.dk/om-pfa/finansiel-information/omkostninger-og-priser/",
+          "uuid": "224fca254cc04866cf6fe6c4bd3deb04f29b4d6c"
+        },
+        {
+          "url": "https://www.pfa.dk/om-pfa/job-i-pfa/ledige-job/",
+          "uuid": "a137914c06b4ba9cf04aa3f0e8e1728f8a31fcc0"
+        },
+        {
+          "url": "https://www.pfa.dk/om-pfa/job-i-pfa/ledige-job/?icid=linklist_nyttigelinks_ledigestillingeripfa",
+          "uuid": "666a08e04f80a3d048c2380f7f91243a3af7ccd0"
+        }
+      ]
+    }
+  ]
+}
