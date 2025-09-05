@@ -12,6 +12,12 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
           "urlHash": "09a46beb0e7314f6e93ca56bc3a1a780d67e17a4",
           "uuid": "09a46beb-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -81,6 +87,12 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
@@ -159,6 +171,12 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
           "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
           "uuid": "52efe10c-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
@@ -258,6 +276,12 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
           "urlHash": "7cedbb129ad277682cbb7726825d842a333363e0",
           "uuid": "7cedbb12-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -288,6 +312,12 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/hvis-du-doer-inden-pensionsalderen/",
           "urlHash": "8f07b07758780bb6bd1a9fdb7fd6d95ecaee1b70",
           "uuid": "8f07b077-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -303,6 +333,12 @@
           "url": "https://www.pfa.dk/privat/opsparing/skatteregler/",
           "urlHash": "91b0c288f5058d60137b7131e4315108700a83c6",
           "uuid": "91b0c288-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
@@ -468,6 +504,12 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/forsikringer/hvis-du-bliver-alvorligt-syg/",
           "urlHash": "dd08b323ac002c0db0203cd5f42ebb2e87f6190f",
           "uuid": "dd08b323-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -516,6 +558,12 @@
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
           "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
           "uuid": "ef2ce381-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -537,6 +585,12 @@
           "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
           "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
           "uuid": "f710a2af-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
@@ -572,6 +626,18 @@
           "url": "https://www.pfa.dk/privat/kundefordele/podcast/",
           "urlHash": "005de046f49cb0854fc576bea850d215d508c9ff",
           "uuid": "005de046-15-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-05-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-06-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -716,6 +782,18 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-18-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-14-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-15-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -872,6 +950,18 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
           "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
           "uuid": "52efe10c-12-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-18-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-19-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -1067,6 +1157,18 @@
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-01-ee7a6796f533ca1a641266fa982b337f0ba6fbf3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
           "urlHash": "7cedbb129ad277682cbb7726825d842a333363e0",
           "uuid": "7cedbb12-15-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -1127,6 +1229,18 @@
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-04-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/hvis-du-doer-inden-pensionsalderen/",
           "urlHash": "8f07b07758780bb6bd1a9fdb7fd6d95ecaee1b70",
           "uuid": "8f07b077-04-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -1160,6 +1274,18 @@
           "url": "https://www.pfa.dk/privat/opsparing/skatteregler/",
           "urlHash": "91b0c288f5058d60137b7131e4315108700a83c6",
           "uuid": "91b0c288-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-02-d59d7eb439cf982369622d08082f404049853f25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-03-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -1487,6 +1613,18 @@
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-21-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-22-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/forsikringer/hvis-du-bliver-alvorligt-syg/",
           "urlHash": "dd08b323ac002c0db0203cd5f42ebb2e87f6190f",
           "uuid": "dd08b323-05-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -1583,6 +1721,18 @@
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-13-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
           "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
           "uuid": "ef2ce381-09-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -1628,6 +1778,18 @@
           "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
           "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
           "uuid": "f710a2af-16-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-03-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-04-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]"
         },
         {
@@ -1809,7 +1971,7 @@
           "urlHash": "ae49173605b8366c384185a41e141dad06d2dcf5",
           "uuid": "ae491736-13-f7b01d994440698640152c2d2ff59c832f5023d5",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-8"
+          "section": "section-9"
         },
         {
           "url": "https://www.pfa.dk/privat/opsparing/sparekstraop/",
@@ -1838,6 +2000,24 @@
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-16-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-11-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/?icid=linklist_nyttigelinks_brugdineforsikringeranmeldskade",
+          "urlHash": "37b539c1c015399a5c6903359f9eb4c5864b712f",
+          "uuid": "37b539c1-02-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/",
+          "urlHash": "520839b5c2746e425ad174dc3538d7330647c856",
+          "uuid": "520839b5-02-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
         },
         {
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
@@ -2017,6 +2197,77 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
         },
         {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-04-08a8ecf5a5a05a592639f93f732c4973929f905d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-05-3086b43427eeef69490b641da437c1774c1caeda",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-08-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-09-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-10-b00d91dff272fbc37e0496eedd9a51fc79cd1d3f",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[10]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-11-35044df2a042562b667b1599c2b07371f2e420b0",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[11]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-12-d41ee05d863b27985799813a45412af99616f890",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[12]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-13-4a2fbb82bf446e234bd645bd4dba198e67d0983f",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[13]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
+          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
+          "uuid": "9c1f9638-14-6ce32babd9558175c307f6f91fec73e85a2a2868",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[14]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/?icid=hero_spanclassheronukandunemtoghurtigtfaringonlinesundhedshjaeliglpspanstylemediamaxwidthspanherofontsizepxmediaminwidthpxspanherofontsizepxlineheightpxpaddingbottompxdisplayblockstyle_laesmere",
           "urlHash": "8883813507a59fbe098f8107f1ba2387d7415fc8",
           "uuid": "88838135-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
@@ -2033,18 +2284,6 @@
           "urlHash": "b567b6b24d94af44df370ddfa4571bdd039857f8",
           "uuid": "b567b6b2-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-04-08a8ecf5a5a05a592639f93f732c4973929f905d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-08-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]"
         }
       ]
     },
@@ -2216,6 +2455,13 @@
           "urlHash": "261c428faa00c1d8aad9fa401b5bd38935cd1334",
           "uuid": "261c428f-19-515de73a249c1beb6a477cc6cd887338055743ff",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-investerer/",
+          "urlHash": "298691005166913d62544fb3805d6d7ab6f6bd59",
+          "uuid": "29869100-16-8f2fa7c7ea6ac5039d206ce58f2dbedcb4f4d35b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
         },
         {
@@ -2431,13 +2677,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://www.pfa.dk/privat/opsparing/pfa-investerer/",
-          "urlHash": "298691005166913d62544fb3805d6d7ab6f6bd59",
-          "uuid": "29869100-16-8f2fa7c7ea6ac5039d206ce58f2dbedcb4f4d35b",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
           "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/?icid=spot_detgodeseniorlivskaberviifaeligllesskab_faainspirationher",
           "urlHash": "54ad7da47edad93112fb3c50e8ea5dfe439c6303",
           "uuid": "54ad7da4-18-db97ecfd61af6095fd90bb49d40301a7f39634e5",
@@ -2620,6 +2859,12 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
           "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
           "urlHash": "09a46beb0e7314f6e93ca56bc3a1a780d67e17a4",
           "uuid": "09a46beb-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
@@ -2671,6 +2916,12 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
@@ -3010,6 +3261,12 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
           "url": "https://www.pfa.dk/erhverv/sundhed/sundhed-trivsel-paa-agendaen/",
           "urlHash": "f2c71463fa67c089c3b573e21122f8bb9aceeced",
           "uuid": "f2c71463-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
@@ -3019,6 +3276,12 @@
           "url": "https://www.pfa.dk/privat/livsaendringer/ved-alvorlig-sygdom/",
           "urlHash": "f33de0d384ceb9287ea9f80c7cf5348624fabb20",
           "uuid": "f33de0d3-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
@@ -3042,6 +3305,13 @@
       "target": "Accordion (accordion14)",
       "key": "accordion14",
       "instances": [
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/sparekstraop/",
+          "urlHash": "fe0d05cbcf9ffbffb38da478e7cbc5f6126665eb",
+          "uuid": "fe0d05cb-21-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
+          "section": "section-1"
+        },
         {
           "url": "https://www.pfa.dk/privat/opsparing/opsparingsformer/",
           "urlHash": "e5476f6fff0392c9ebca091a887891498140b79e",
@@ -3067,13 +3337,6 @@
           "urlHash": "e5476f6fff0392c9ebca091a887891498140b79e",
           "uuid": "e5476f6f-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/sparekstraop/",
-          "urlHash": "fe0d05cbcf9ffbffb38da478e7cbc5f6126665eb",
-          "uuid": "fe0d05cb-21-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
           "section": "section-1"
         }
       ]
@@ -3132,12 +3395,6 @@
       "key": "columns17",
       "instances": [
         {
-          "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/?icid=hero_spanclassheronukandunemtoghurtigtfaringonlinesundhedshjaeliglpspanstylemediamaxwidthspanherofontsizepxmediaminwidthpxspanherofontsizepxlineheightpxpaddingbottompxdisplayblockstyle_laesmere",
-          "urlHash": "8883813507a59fbe098f8107f1ba2387d7415fc8",
-          "uuid": "88838135-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
-        },
-        {
           "url": "https://www.pfa.dk/erhverv/sundhed/online-sundhedshjaelp/",
           "urlHash": "a1481dc10ca4c2a55dcd85f04ef2c622de9691bf",
           "uuid": "a1481dc1-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
@@ -3147,6 +3404,12 @@
           "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/",
           "urlHash": "b567b6b24d94af44df370ddfa4571bdd039857f8",
           "uuid": "b567b6b2-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/?icid=hero_spanclassheronukandunemtoghurtigtfaringonlinesundhedshjaeliglpspanstylemediamaxwidthspanherofontsizepxmediaminwidthpxspanherofontsizepxlineheightpxpaddingbottompxdisplayblockstyle_laesmere",
+          "urlHash": "8883813507a59fbe098f8107f1ba2387d7415fc8",
+          "uuid": "88838135-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]"
         }
       ]
@@ -3162,6 +3425,13 @@
           "url": "https://www.pfa.dk/privat/kundefordele/podcast/",
           "urlHash": "005de046f49cb0854fc576bea850d215d508c9ff",
           "uuid": "005de046-14-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-05-e3b494800f9c95c58140140e3533401c93f2b8e6",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
           "section": "section-4"
         },
@@ -3239,6 +3509,13 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-17-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-14-e3b494800f9c95c58140140e3533401c93f2b8e6",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
           "section": "section-4"
         },
@@ -3323,13 +3600,6 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
           "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
           "uuid": "52efe10c-11-e3b494800f9c95c58140140e3533401c93f2b8e6",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
-          "section": "section-4"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/?icid=spot_detgodeseniorlivskaberviifaeligllesskab_faainspirationher",
-          "urlHash": "54ad7da47edad93112fb3c50e8ea5dfe439c6303",
-          "uuid": "54ad7da4-31-e3b494800f9c95c58140140e3533401c93f2b8e6",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
           "section": "section-4"
         },
@@ -3691,6 +3961,13 @@
           "section": "section-4"
         },
         {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-13-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
+          "section": "section-4"
+        },
+        {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
           "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
           "uuid": "ef2ce381-09-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -3719,6 +3996,13 @@
           "section": "section-4"
         },
         {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-03-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
+          "section": "section-4"
+        },
+        {
           "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
           "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
           "uuid": "fc1e976f-13-e3b494800f9c95c58140140e3533401c93f2b8e6",
@@ -3729,6 +4013,13 @@
           "url": "https://www.pfa.dk/privat/opsparing/sparekstraop/",
           "urlHash": "fe0d05cbcf9ffbffb38da478e7cbc5f6126665eb",
           "uuid": "fe0d05cb-23-e3b494800f9c95c58140140e3533401c93f2b8e6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/?icid=spot_detgodeseniorlivskaberviifaeligllesskab_faainspirationher",
+          "urlHash": "54ad7da47edad93112fb3c50e8ea5dfe439c6303",
+          "uuid": "54ad7da4-31-e3b494800f9c95c58140140e3533401c93f2b8e6",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/nav[1]",
           "section": "section-4"
         }
@@ -3990,6 +4281,13 @@
           "section": "section-5"
         },
         {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-06-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
           "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
           "urlHash": "09a46beb0e7314f6e93ca56bc3a1a780d67e17a4",
           "uuid": "09a46beb-11-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -4070,6 +4368,13 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-kollegier/",
           "urlHash": "2acc991635fafb69876dd16fc25b2168e450ead7",
           "uuid": "2acc9916-18-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-15-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]",
           "section": "section-5"
         },
@@ -4161,6 +4466,13 @@
           "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
           "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
           "uuid": "52efe10c-12-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-19-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]",
           "section": "section-5"
         },
@@ -4277,6 +4589,13 @@
           "section": "section-5"
         },
         {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-02-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
           "urlHash": "7cedbb129ad277682cbb7726825d842a333363e0",
           "uuid": "7cedbb12-16-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -4312,6 +4631,13 @@
           "section": "section-5"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/hvis-du-doer-inden-pensionsalderen/",
           "urlHash": "8f07b07758780bb6bd1a9fdb7fd6d95ecaee1b70",
           "uuid": "8f07b077-05-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -4329,6 +4655,13 @@
           "url": "https://www.pfa.dk/privat/opsparing/skatteregler/",
           "urlHash": "91b0c288f5058d60137b7131e4315108700a83c6",
           "uuid": "91b0c288-05-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-03-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]",
           "section": "section-5"
         },
@@ -4522,6 +4855,13 @@
           "section": "section-5"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-22-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
           "url": "https://www.pfa.dk/privat/forsikringer/hvis-du-bliver-alvorligt-syg/",
           "urlHash": "dd08b323ac002c0db0203cd5f42ebb2e87f6190f",
           "uuid": "dd08b323-06-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -4578,6 +4918,13 @@
           "section": "section-5"
         },
         {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-14-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
           "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
           "uuid": "ef2ce381-10-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -4602,6 +4949,13 @@
           "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
           "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
           "uuid": "f710a2af-16-a507e040135207256fc0c4fd07f12510b5a9e729",
+          "xpath": "/html[1]/body[1]/footer[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-04-a507e040135207256fc0c4fd07f12510b5a9e729",
           "xpath": "/html[1]/body[1]/footer[1]",
           "section": "section-5"
         },
@@ -4680,6 +5034,12 @@
           "url": "https://www.pfa.dk/erhverv/",
           "urlHash": "6dbd0e883e331188e1ca7f674ce9de225f7ef1d0",
           "uuid": "6dbd0e88-01-ee7a6796f533ca1a641266fa982b337f0ba6fbf3",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-01-ee7a6796f533ca1a641266fa982b337f0ba6fbf3",
           "xpath": "/html[1]/body[1]/div[2]/main[1]"
         }
       ]
@@ -4886,6 +5246,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://www.pfa.dk/privat/forsikringer/er-du-ok/",
           "urlHash": "3114b18789261760d1642fcf0b16bf42a2d8b004",
           "uuid": "3114b187-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -5068,6 +5435,13 @@
           "section": "section-1"
         },
         {
+          "url": "https://www.pfa.dk/companies/groenland/",
+          "urlHash": "7b9abf876e73829072ca7a5724063c2844df9664",
+          "uuid": "7b9abf87-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
           "urlHash": "7cedbb129ad277682cbb7726825d842a333363e0",
           "uuid": "7cedbb12-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -5120,6 +5494,13 @@
           "url": "https://www.pfa.dk/privat/opsparing/skatteregler/",
           "urlHash": "91b0c288f5058d60137b7131e4315108700a83c6",
           "uuid": "91b0c288-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]",
           "section": "section-1"
         },
@@ -5580,72 +5961,6 @@
           "section": "section-1"
         },
         {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-05-3086b43427eeef69490b641da437c1774c1caeda",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-09-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-10-b00d91dff272fbc37e0496eedd9a51fc79cd1d3f",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[10]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-11-35044df2a042562b667b1599c2b07371f2e420b0",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[11]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-12-d41ee05d863b27985799813a45412af99616f890",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[12]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-13-4a2fbb82bf446e234bd645bd4dba198e67d0983f",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[13]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/opsparing/baeredygtighedsrelaterede-oplysninger/",
-          "urlHash": "9c1f9638895128a3afd0e32ab486ef210d656bfe",
-          "uuid": "9c1f9638-14-6ce32babd9558175c307f6f91fec73e85a2a2868",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[14]"
-        },
-        {
-          "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
-          "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
-          "uuid": "f710a2af-10-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]",
-          "section": "section-1"
-        },
-        {
           "url": "https://www.pfa.dk/privat/kundefordele/fysiske-kurser/",
           "urlHash": "5a9d66aacdd5fe2bbdc6b70cac47a55ed3bca10b",
           "uuid": "5a9d66aa-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
@@ -5691,6 +6006,13 @@
           "url": "https://www.pfa.dk/privat/forsikringer/online-sundhedshjaelp/",
           "urlHash": "b567b6b24d94af44df370ddfa4571bdd039857f8",
           "uuid": "b567b6b2-08-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
+          "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
+          "uuid": "f710a2af-10-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]",
           "section": "section-1"
         }
@@ -5993,7 +6315,7 @@
           "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
           "uuid": "eb9098d9-23-2f1c6ae2a30ebe77633b9a0f16b1c45fce63fe0e",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-9"
+          "section": "section-10"
         },
         {
           "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
@@ -6001,6 +6323,12 @@
           "uuid": "eb9098d9-27-434f6c3a163ed0d4a5032f67f47e4e893de01da3",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[10]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-03-8b6566f2231756ebdabdbc85861bc11a755039f6",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[2]"
         },
         {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
@@ -6015,6 +6343,36 @@
           "uuid": "f2c71463-04-217acbb172c1a19e906aa6605b80c0c0ab481f57",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 48,
+      "source": "Cards",
+      "target": "Cards (cards48)",
+      "key": "cards48",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-18-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-04-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-21-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]",
+          "section": "section-8"
         }
       ]
     },
@@ -6337,12 +6695,6 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
-          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
-          "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
-          "uuid": "52efe10c-01-7dabc7e31c45a802592651f60769eff199a48c33",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
-        },
-        {
           "url": "https://www.pfa.dk/erhverv/sundhed/earlycare/",
           "urlHash": "7776c6ccb7fa4450d2ef97a84d71048951b7fd20",
           "uuid": "7776c6cc-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
@@ -6355,18 +6707,6 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         },
         {
-          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/",
-          "urlHash": "aa4cfcea77c0c83878edbd0faefdc66305767735",
-          "uuid": "aa4cfcea-01-7dabc7e31c45a802592651f60769eff199a48c33",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
-        },
-        {
-          "url": "https://www.pfa.dk/privat/kundefordele/kf-forsikring/",
-          "urlHash": "b6c69050ddd904b06d1ace212dc2306816db94e6",
-          "uuid": "b6c69050-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
-        },
-        {
           "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
           "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
           "uuid": "ef2ce381-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
@@ -6376,6 +6716,24 @@
           "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
           "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
           "uuid": "f710a2af-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
+          "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
+          "uuid": "52efe10c-01-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/",
+          "urlHash": "aa4cfcea77c0c83878edbd0faefdc66305767735",
+          "uuid": "aa4cfcea-01-7dabc7e31c45a802592651f60769eff199a48c33",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/kf-forsikring/",
+          "urlHash": "b6c69050ddd904b06d1ace212dc2306816db94e6",
+          "uuid": "b6c69050-01-63f4c5558121d05317cdfdd90b4ab2dbe3632880",
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]"
         }
       ]
@@ -6435,10 +6793,10 @@
       "key": "columns62",
       "instances": [
         {
-          "url": "https://www.pfa.dk/privat/opsparing/planlaeg-din-opsparing/",
-          "urlHash": "b9daddce64c17dd256536850fe20174b056b7707",
-          "uuid": "b9daddce-21-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]"
+          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
+          "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
+          "uuid": "fc1e976f-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]"
         },
         {
           "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
@@ -6447,10 +6805,37 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]"
         },
         {
-          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
-          "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
-          "uuid": "fc1e976f-07-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
-          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]"
+          "url": "https://www.pfa.dk/privat/opsparing/planlaeg-din-opsparing/",
+          "urlHash": "b9daddce64c17dd256536850fe20174b056b7707",
+          "uuid": "b9daddce-21-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 63,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages63)",
+      "key": "cardsNoImages63",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-02-d59d7eb439cf982369622d08082f404049853f25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-02-d59d7eb439cf982369622d08082f404049853f25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-02-d59d7eb439cf982369622d08082f404049853f25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[2]"
         }
       ]
     },
@@ -7042,6 +7427,13 @@
       "key": "header95",
       "instances": [
         {
+          "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+          "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+          "uuid": "070f6e8f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://www.pfa.dk/andet/saerlige-undersoegelser/",
           "urlHash": "3ee4b87425686160dd6e60197693c281296328d0",
           "uuid": "3ee4b874-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
@@ -7056,9 +7448,23 @@
           "section": "section-1"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+          "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+          "uuid": "5380fc5d-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://www.pfa.dk/andet/din-kundeoplevelse/",
           "urlHash": "61c929ad4427b926642399413622fc941f06b298",
           "uuid": "61c929ad-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+          "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+          "uuid": "8c390bd2-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]",
           "section": "section-1"
         },
@@ -7077,9 +7483,30 @@
           "section": "section-1"
         },
         {
+          "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+          "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+          "uuid": "d72c9597-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
           "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
           "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
           "uuid": "f710a2af-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/skjult/forbehold/",
+          "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+          "uuid": "fa08b4c2-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
           "xpath": "/html[1]/body[1]/div[2]/header[1]",
           "section": "section-1"
         }
@@ -7184,6 +7611,206 @@
           "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]"
         }
       ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 102,
+      "source": "Accordion",
+      "target": "Accordion (accordion102)",
+      "key": "accordion102",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-06-8f2fa7c7ea6ac5039d206ce58f2dbedcb4f4d35b",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-08-b5b2f5037e52a43d99283596214fa34e519d5c80",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-10-fc11f2310808d5ebdd96ba135b8cfd5acd71771d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 103,
+      "source": "Columns",
+      "target": "Columns (columns103)",
+      "key": "columns103",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-04-217acbb172c1a19e906aa6605b80c0c0ab481f57",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 104,
+      "source": "Cards",
+      "target": "Cards (cards104)",
+      "key": "cards104",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-02-d59d7eb439cf982369622d08082f404049853f25",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 105,
+      "source": "Cards",
+      "target": "Cards (cards105)",
+      "key": "cards105",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-09-fc11f2310808d5ebdd96ba135b8cfd5acd71771d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+          "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+          "uuid": "2bd64273-10-c73e4a824d42dc8197bd1ec0f1b030d2b5f25768",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-02-86f48cc6b4dab6e9ee3f7fe0f69b319b641a25c7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped & bordered)",
+      "cluster": 106,
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered106)",
+      "key": "tableStripedBordered106",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast/",
+          "urlHash": "a555abd2973e1080685a8c72af2327da5364a66a",
+          "uuid": "a555abd2-23-08a8ecf5a5a05a592639f93f732c4973929f905d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/erhverv/sundhed/overblik/",
+          "urlHash": "cb0c560420cad1dcf23df59d8a05bfbb7ff2cc75",
+          "uuid": "cb0c5604-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
+          "urlHash": "df96368dac2d401042d3cfa21b3a0fa0af14c6b0",
+          "uuid": "df96368d-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
+          "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
+          "uuid": "eb9098d9-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-04-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
+          "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
+          "uuid": "ef2ce381-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
+          "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
+          "uuid": "ef2ce381-07-5fb6ff45d67384833676cc6165e60e24aa3384f7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
+          "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
+          "uuid": "f710a2af-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
+          "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
+          "uuid": "f710a2af-05-3086b43427eeef69490b641da437c1774c1caeda",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
+          "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
+          "uuid": "fc1e976f-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 107,
+      "source": "Columns",
+      "target": "Columns (columns107)",
+      "key": "columns107",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/kontakt/",
+          "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+          "uuid": "ec95361f-12-8423bb11fdf663a098e7e0f2eade7de8c3d1b2b1",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 108,
+      "source": "Columns",
+      "target": "Columns (columns108)",
+      "key": "columns108",
+      "instances": [
+        {
+          "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
+          "urlHash": "926656ae927c6c50c91e0c9c8d60783563610dc6",
+          "uuid": "926656ae-01-d2bc145c197b13c9f9b102f9a32be44625f152a4",
+          "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -7207,6 +7834,24 @@
       "uuid": "005de046-11-437240b4e8fc05887466652d908950fb1bc02e21",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/h3[1]",
       "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+      "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+      "uuid": "070f6e8f-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+      "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+      "uuid": "070f6e8f-03-08a8ecf5a5a05a592639f93f732c4973929f905d",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]"
+    },
+    {
+      "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
+      "urlHash": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596",
+      "uuid": "070f6e8f-04-3086b43427eeef69490b641da437c1774c1caeda",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
@@ -7797,6 +8442,60 @@
       "section": "section-1"
     },
     {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-03-001e408f4c80978e0a9f64d9db80a905a3776ca2",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-05-81a7f22f6ce1560f9e562366cf80936aa53338bd",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-06-b99b6efe419cc9f260110284d22bbf77d71d98fb",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-07-3086b43427eeef69490b641da437c1774c1caeda",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-08-b2511cb76e9f7313e2e05e7ce45ff32262a4d6b2",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/div[1]/div[1]/h2[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-12-a303f5ca6c759a2f556f77b2f0cbed49ec84dd75",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
+      "urlHash": "2bd642737289fe80569bb4b8f2d7ece3835d3617",
+      "uuid": "2bd64273-13-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
+      "section": "section-3"
+    },
+    {
       "url": "https://www.pfa.dk/privat/forsikringer/er-du-ok/",
       "urlHash": "3114b18789261760d1642fcf0b16bf42a2d8b004",
       "uuid": "3114b187-02-7dabc7e31c45a802592651f60769eff199a48c33",
@@ -7867,12 +8566,6 @@
       "urlHash": "322cb538372f072c95309c758c84134d6304801e",
       "uuid": "322cb538-09-3086b43427eeef69490b641da437c1774c1caeda",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/?icid=linklist_nyttigelinks_brugdineforsikringeranmeldskade",
-      "urlHash": "37b539c1c015399a5c6903359f9eb4c5864b712f",
-      "uuid": "37b539c1-02-7dabc7e31c45a802592651f60769eff199a48c33",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
     },
     {
       "url": "https://www.pfa.dk/andet/saerlige-undersoegelser/",
@@ -8216,12 +8909,6 @@
       "section": "section-1"
     },
     {
-      "url": "https://www.pfa.dk/privat/forsikringer/anmeld-skade/",
-      "urlHash": "520839b5c2746e425ad174dc3538d7330647c856",
-      "uuid": "520839b5-02-7dabc7e31c45a802592651f60769eff199a48c33",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
-    },
-    {
       "url": "https://www.pfa.dk/privat/kundefordele/pfa-boliger/?icid=quicklink_kundefordele_skrivdigoptilenlejebolig",
       "urlHash": "52efe10cab78a80249d9c98b52627cbe27ce9fe4",
       "uuid": "52efe10c-02-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
@@ -8247,6 +8934,102 @@
       "uuid": "52efe10c-09-e1353db8ff1b7572f1b6227a5ae29258337de3ca",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]",
       "section": "section-3"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-01-d2bc145c197b13c9f9b102f9a32be44625f152a4",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-03-54957228432294ddef162c21433f7c1d6a155a49",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h1[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-04-66e8e59e75262247d55def19eb3792fd47e68e11",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-05-2c80cbb40888daa1628c242d5b1ed8d50360e60c",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-06-0c66b4f4c943128ad8bcdc238477836eb2833f2f",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[3]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-07-5405862a1158bf0a586919f20721ea6040b038c8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[4]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-08-a37bc0c0ec0d2d824bc810e57e2fff746e7c14e4",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-09-9ce6cf36fbbed90d56190a11c45a12888c4b82b8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[5]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-10-f42463c8fd3ead76337a4df5ae4d3122eb206221",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[6]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-11-1839707b4acd01cfe2b8a33de968312866c5b0bc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[7]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-12-66dbd5038ae8d044c305bf63c75ebf6ae052ddb6",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-13-d4877373f375d466625ecf8bda198827700b18e7",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[8]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-14-303c9cbee111c4efff716bf212bd390c957c710e",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[9]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-15-2d5a0c4a42d73740c00c0049bd314206f2c11567",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[3]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-16-d1e690d61471a1821bfa5590fd6bc93244adefbb",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/ul[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
+      "urlHash": "5380fc5d32ca1b97cc89416e2908a80196391dea",
+      "uuid": "5380fc5d-17-4276d6ad3f69c7aa9e7b7ad1b8eae335cc9b0550",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/div[1]/p[1]"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/?icid=spot_detgodeseniorlivskaberviifaeligllesskab_faainspirationher",
@@ -8839,6 +9622,18 @@
       "section": "section-3"
     },
     {
+      "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+      "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+      "uuid": "8c390bd2-01-d2bc145c197b13c9f9b102f9a32be44625f152a4",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
+      "urlHash": "8c390bd289bf023c9696fa16be1ba9df566d2066",
+      "uuid": "8c390bd2-03-fb19986deeeea19276bb0a0cb31e0ca9a7460b40",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]"
+    },
+    {
       "url": "https://www.pfa.dk/privat/livsaendringer/hvis-du-doer-inden-pensionsalderen/",
       "urlHash": "8f07b07758780bb6bd1a9fdb7fd6d95ecaee1b70",
       "uuid": "8f07b077-02-7dabc7e31c45a802592651f60769eff199a48c33",
@@ -9405,13 +10200,6 @@
     {
       "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast/",
       "urlHash": "a555abd2973e1080685a8c72af2327da5364a66a",
-      "uuid": "a555abd2-23-08a8ecf5a5a05a592639f93f732c4973929f905d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/pfa-afkast/",
-      "urlHash": "a555abd2973e1080685a8c72af2327da5364a66a",
       "uuid": "a555abd2-24-3086b43427eeef69490b641da437c1774c1caeda",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]"
     },
@@ -9593,7 +10381,7 @@
       "urlHash": "ae49173605b8366c384185a41e141dad06d2dcf5",
       "uuid": "ae491736-12-1446cc06faab579d4d5130c48ef49cb8dc5d94c5",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]/div[1]/div[1]/div[1]/h2[1]",
-      "section": "section-8"
+      "section": "section-9"
     },
     {
       "url": "https://www.pfa.dk/privat/kundefordele/pfa-seniorboliger/",
@@ -9795,7 +10583,7 @@
       "urlHash": "bc6b3689dab607d11042d749256165c901e5ab3c",
       "uuid": "bc6b3689-04-08a8ecf5a5a05a592639f93f732c4973929f905d",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]",
-      "section": "section-9"
+      "section": "section-10"
     },
     {
       "url": "https://www.pfa.dk/erhverv/sundhed/digital-trivselsraadgiver/",
@@ -9828,49 +10616,49 @@
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-04-b9931bfeca3fddacf2c8169cc747ecdb1aafdc50",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[1]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-05-be343c8bf949c6f2d05e6fefce3cc6f849ba13b1",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[2]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-06-eec0c66d1a0c149027ac556713f36d023a0d3ef2",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[3]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-07-8c8758d9055206cb7cd3f36391ef3a634a6bf6b3",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[4]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-08-f9e25dbf4288ef8920b543c801a3b5f8da1c0016",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[5]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-09-0f6eabd5bce223eabd89ca5b0e0a4cb536b457de",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[6]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
       "urlHash": "c4f29f06219a89f3af90baed39fe64a298a0a6b6",
       "uuid": "c4f29f06-10-c5baa7880ee07d3ae80e78d5ce85192c1828e48b",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]/div[1]/div[1]/div[1]/p[7]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/din-boligsituation-aendrer-sig/",
@@ -9903,13 +10691,6 @@
       "urlHash": "cb0c560420cad1dcf23df59d8a05bfbb7ff2cc75",
       "uuid": "cb0c5604-02-7dabc7e31c45a802592651f60769eff199a48c33",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
-    },
-    {
-      "url": "https://www.pfa.dk/erhverv/sundhed/overblik/",
-      "urlHash": "cb0c560420cad1dcf23df59d8a05bfbb7ff2cc75",
-      "uuid": "cb0c5604-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
-      "section": "section-1"
     },
     {
       "url": "https://www.pfa.dk/erhverv/sundhed/overblik/",
@@ -10029,6 +10810,120 @@
       "section": "section-1"
     },
     {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-01-d2bc145c197b13c9f9b102f9a32be44625f152a4",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-03-54957228432294ddef162c21433f7c1d6a155a49",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h1[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-04-66e8e59e75262247d55def19eb3792fd47e68e11",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-05-2c80cbb40888daa1628c242d5b1ed8d50360e60c",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-06-0c66b4f4c943128ad8bcdc238477836eb2833f2f",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[3]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-07-5405862a1158bf0a586919f20721ea6040b038c8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[4]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-08-a37bc0c0ec0d2d824bc810e57e2fff746e7c14e4",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-09-9ce6cf36fbbed90d56190a11c45a12888c4b82b8",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[5]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-10-c6bee777cdaf2f6e5b4c2d64bbf7ba0d64fb3436",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/ol[1]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-11-f42463c8fd3ead76337a4df5ae4d3122eb206221",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[6]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-12-66dbd5038ae8d044c305bf63c75ebf6ae052ddb6",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[2]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-13-1839707b4acd01cfe2b8a33de968312866c5b0bc",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[7]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-14-d4877373f375d466625ecf8bda198827700b18e7",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[8]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-15-303c9cbee111c4efff716bf212bd390c957c710e",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[9]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-16-2d5a0c4a42d73740c00c0049bd314206f2c11567",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/h2[3]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-17-8ed3008ea66c8e3c89123c73c23136088ccb0f76",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[10]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-18-14015d18f7d09755280bf032f234a8f6e420374d",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[11]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-19-14329c679e3200a49184499fa0b1fcba522fc1d7",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/p[12]"
+    },
+    {
+      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
+      "urlHash": "d72c95974bd3d3539c209df809ec8d7bec040e08",
+      "uuid": "d72c9597-20-4276d6ad3f69c7aa9e7b7ad1b8eae335cc9b0550",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[1]/div[3]/article[1]/div[1]/p[1]"
+    },
+    {
       "url": "https://www.pfa.dk/privat/forsikringer/hvis-du-bliver-alvorligt-syg/",
       "urlHash": "dd08b323ac002c0db0203cd5f42ebb2e87f6190f",
       "uuid": "dd08b323-02-7dabc7e31c45a802592651f60769eff199a48c33",
@@ -10136,13 +11031,6 @@
     {
       "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
       "urlHash": "df96368dac2d401042d3cfa21b3a0fa0af14c6b0",
-      "uuid": "df96368d-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
-      "urlHash": "df96368dac2d401042d3cfa21b3a0fa0af14c6b0",
       "uuid": "df96368d-08-c39934fd83ddf6f36f0bb6ad24a67a23b97bc3fe",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[8]/div[1]/div[1]/div[1]/h2[1]/a[1]"
     },
@@ -10243,13 +11131,6 @@
     {
       "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
       "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
-      "uuid": "eb9098d9-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
-      "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
       "uuid": "eb9098d9-05-30d2cb4b321315b338402ecd84896fea92e92d30",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[1]/h2[2]"
     },
@@ -10333,21 +11214,21 @@
       "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
       "uuid": "eb9098d9-21-ee368253e7ce11d48173745df16a468fd2e8890f",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]/div[1]/div[1]/div[1]/h2[1]/a[1]",
-      "section": "section-9"
+      "section": "section-10"
     },
     {
       "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
       "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
       "uuid": "eb9098d9-22-5098833f274546d23c479f678f011728debe3582",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]/div[1]/div[1]/div[1]/p[1]",
-      "section": "section-9"
+      "section": "section-10"
     },
     {
       "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
       "urlHash": "eb9098d99cd8735689a3a4dc1dfac402f789bfba",
       "uuid": "eb9098d9-24-4ce1c8d9b2864c4d343f8bd517aad7fbd858c638",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[9]/div[1]/div[1]/div[1]/div[2]",
-      "section": "section-9"
+      "section": "section-10"
     },
     {
       "url": "https://www.pfa.dk/privat/forsikringer/overblik/",
@@ -10371,17 +11252,38 @@
       "section": "section-1"
     },
     {
-      "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
-      "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
-      "uuid": "ef2ce381-02-7dabc7e31c45a802592651f60769eff199a48c33",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
+      "url": "https://www.pfa.dk/kontakt/",
+      "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+      "uuid": "ec95361f-05-437240b4e8fc05887466652d908950fb1bc02e21",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[4]/div[1]/div[1]/div[1]/h3[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/kontakt/",
+      "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+      "uuid": "ec95361f-07-118d1bcd198c88d9074f427386a2abe4895c5d7c",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]/div[1]/div[1]/div[1]/h3[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/kontakt/",
+      "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+      "uuid": "ec95361f-09-ca4c811d6bf1c797eb55285997ea0e3cf377c531",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]/div[1]/div[1]/div[1]/h3[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pfa.dk/kontakt/",
+      "urlHash": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f",
+      "uuid": "ec95361f-11-2820006be9061d2aea5612ea16ac2c36a5fd6e08",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[1]/div[1]/div[1]/h3[1]",
+      "section": "section-1"
     },
     {
       "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
       "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
-      "uuid": "ef2ce381-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
-      "section": "section-1"
+      "uuid": "ef2ce381-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
     },
     {
       "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
@@ -10393,16 +11295,9 @@
     {
       "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
       "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
-      "uuid": "ef2ce381-07-5fb6ff45d67384833676cc6165e60e24aa3384f7",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/privat/kundefordele/goodlife/",
-      "urlHash": "ef2ce381bab2cccc1c53880d60acd6003b14c6e3",
       "uuid": "ef2ce381-08-27a1afc02bbcea6e1f5538749c43cbc146f2970d",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]",
-      "section": "section-10"
+      "section": "section-11"
     },
     {
       "url": "https://www.pfa.dk/erhverv/sundhed/sundhed-trivsel-paa-agendaen/",
@@ -10458,20 +11353,6 @@
     {
       "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
       "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
-      "uuid": "f710a2af-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
-      "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
-      "uuid": "f710a2af-05-3086b43427eeef69490b641da437c1774c1caeda",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[5]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.pfa.dk/andet/nye-investeringsprofiler/?icid=spot_ppfaintroducerernyeinvesteringsbrprofilerp_laesmere",
-      "urlHash": "f710a2af63fb70796d4f2ab0ed235d758cdeff56",
       "uuid": "f710a2af-07-e8fad06cb1ac9e650f215137cdb24d2f359eca58",
       "xpath": "/html[1]/body[1]/div[2]/main[1]/div[7]/div[1]/div[1]/div[1]/h2[1]",
       "section": "section-3"
@@ -10497,17 +11378,16 @@
       "section": "section-6"
     },
     {
-      "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
-      "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
-      "uuid": "fc1e976f-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
-      "section": "section-1"
+      "url": "https://www.pfa.dk/skjult/forbehold/",
+      "urlHash": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e",
+      "uuid": "fa08b4c2-02-7dabc7e31c45a802592651f60769eff199a48c33",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[2]"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
       "urlHash": "fc1e976f43d57e9ceacdae3857be611fe4aea880",
-      "uuid": "fc1e976f-06-5fb6ff45d67384833676cc6165e60e24aa3384f7",
-      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[6]",
+      "uuid": "fc1e976f-03-be72241cb0cb7627bf4d0e48eca9c555757b4f9d",
+      "xpath": "/html[1]/body[1]/div[2]/main[1]/div[3]",
       "section": "section-1"
     },
     {
@@ -10610,7 +11490,7 @@
     {
       "name": "section-1",
       "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 469
+      "count": 494
     },
     {
       "name": "section-2",
@@ -10620,22 +11500,22 @@
     {
       "name": "section-3",
       "background": "rgb(1, 97, 104) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 56
+      "count": 57
     },
     {
       "name": "section-4",
       "background": "rgba(0, 0, 0, 0.05) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 88
+      "count": 92
     },
     {
       "name": "section-5",
       "background": "rgb(51, 51, 51) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 99
+      "count": 108
     },
     {
       "name": "section-6",
       "background": "rgb(153, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 30
+      "count": 31
     },
     {
       "name": "section-7",
@@ -10644,16 +11524,21 @@
     },
     {
       "name": "section-8",
+      "background": "rgb(217, 217, 217) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    },
+    {
+      "name": "section-9",
       "background": "rgb(230, 239, 240) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 2
     },
     {
-      "name": "section-9",
+      "name": "section-10",
       "background": "rgb(204, 223, 225) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 5
     },
     {
-      "name": "section-10",
+      "name": "section-11",
       "background": "rgb(103, 160, 164) none repeat scroll 0% 0% / auto padding-box border-box",
       "count": 8
     }
