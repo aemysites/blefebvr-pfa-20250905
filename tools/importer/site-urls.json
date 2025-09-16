@@ -40,18 +40,6 @@
       "id": "3ee4b87425686160dd6e60197693c281296328d0"
     },
     {
-      "url": "https://www.pfa.dk/privat/livsaendringer/senkarriere/",
-      "source": "CRAWL",
-      "targetPath": "/campaigns/senkarriere",
-      "id": "b57559604da32c17ceeae9ea7dcb133827606cd9"
-    },
-    {
-      "url": "https://www.pfa.dk/companies/groenland/",
-      "source": "CRAWL",
-      "targetPath": "/companies/groenland",
-      "id": "7b9abf876e73829072ca7a5724063c2844df9664"
-    },
-    {
       "url": "https://www.pfa.dk/erhverv/",
       "source": "CRAWL",
       "targetPath": "/erhverv",
@@ -122,36 +110,6 @@
       "source": "CRAWL",
       "targetPath": "/erhverv/sundhed/sundhed-trivsel-paa-agendaen",
       "id": "f2c71463fa67c089c3b573e21122f8bb9aceeced"
-    },
-    {
-      "url": "https://www.pfa.dk/kontakt/",
-      "source": "CRAWL",
-      "targetPath": "/kontakt",
-      "id": "ec95361ff4f4d2803a875bb8b8bdb6997c88955f"
-    },
-    {
-      "url": "https://www.pfa.dk/news-archive/?icid=news_pfanyheder_seflerenyheder",
-      "source": "CRAWL",
-      "targetPath": "/news-archive",
-      "id": "926656ae927c6c50c91e0c9c8d60783563610dc6"
-    },
-    {
-      "url": "https://www.pfa.dk/news-archive/2025/07/02/06/57/seniorloeftet/?icid=spot_seksvirksomhedervilgoslashrearbejdslivetmereattraktivtforseniorer_laesmere",
-      "source": "CRAWL",
-      "targetPath": "/news-archive/2025/07/02/06/57/seniorloeftet",
-      "id": "d72c95974bd3d3539c209df809ec8d7bec040e08"
-    },
-    {
-      "url": "https://www.pfa.dk/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur/?icid=news_pfanyheder_aktierpaasommeropturmendollarfalddaempergevinsten",
-      "source": "CRAWL",
-      "targetPath": "/news-archive/2025/07/25/09/00/aktier-paa-sommeroptur",
-      "id": "8c390bd289bf023c9696fa16be1ba9df566d2066"
-    },
-    {
-      "url": "https://www.pfa.dk/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde/?icid=news_pfanyheder_langtidssygemeldtepfakunderkommerhurtigeretilbageiarbejde",
-      "source": "CRAWL",
-      "targetPath": "/news-archive/2025/08/11/09/15/langtidssygemeldte-kommer-tilbage-i-arbejde",
-      "id": "5380fc5d32ca1b97cc89416e2908a80196391dea"
     },
     {
       "url": "https://www.pfa.dk/om-pfa/",
@@ -590,18 +548,6 @@
       "source": "CRAWL",
       "targetPath": "/privat/raadgivning",
       "id": "126a46720cb1759aadcbfeb25caec1ed587e7ad6"
-    },
-    {
-      "url": "https://www.pfa.dk/skjult/brug-af-cookies/",
-      "source": "CRAWL",
-      "targetPath": "/skjult/brug-af-cookies",
-      "id": "070f6e8f00ecb2f47741f81f8da13ef21ba6c596"
-    },
-    {
-      "url": "https://www.pfa.dk/skjult/forbehold/",
-      "source": "CRAWL",
-      "targetPath": "/skjult/forbehold",
-      "id": "fa08b4c2756fb8bd67f31df9b5c3456b9d6cc85e"
     }
   ],
   "crawlOptions": {
