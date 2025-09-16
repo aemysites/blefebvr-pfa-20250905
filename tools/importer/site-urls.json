@@ -52,30 +52,6 @@
       "id": "dea7fc010945a4cd047c55b6aebaf512976d7c7d"
     },
     {
-      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/konkurrencedygtige-omkostninger/",
-      "source": "CRAWL",
-      "targetPath": "/erhverv/hvorfor-pfa/konkurrencedygtige-omkostninger",
-      "id": "e8793670d3f5ff509c97efef6fe2a06c1b6f4acf"
-    },
-    {
-      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-kundekapital/",
-      "source": "CRAWL",
-      "targetPath": "/erhverv/hvorfor-pfa/pfa-kundekapital",
-      "id": "b8ccecb4cc59aaba4d45e1b45fbde521072f2947"
-    },
-    {
-      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/pfa-som-partner/",
-      "source": "CRAWL",
-      "targetPath": "/erhverv/hvorfor-pfa/pfa-som-partner",
-      "id": "44dfa26b6466b39313fdf8bb581a0e0dc5c1067d"
-    },
-    {
-      "url": "https://www.pfa.dk/erhverv/hvorfor-pfa/raadgivning/",
-      "source": "CRAWL",
-      "targetPath": "/erhverv/hvorfor-pfa/raadgivning",
-      "id": "43f92a33553c818739d820ec095bfde1e137e38d"
-    },
-    {
       "url": "https://www.pfa.dk/erhverv/sundhed/digital-trivselsraadgiver/",
       "source": "CRAWL",
       "targetPath": "/erhverv/sundhed/digital-trivselsraadgiver",
