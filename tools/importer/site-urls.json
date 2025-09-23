@@ -7,13 +7,13 @@
       "url": "https://www.pfa.dk/andet/din-kundeoplevelse/",
       "source": "CRAWL",
       "targetPath": "/andet/din-kundeoplevelse",
-      "id": "61c929ad4427b926642399413622fc941f06b298"
+      "id": "Gs7z9TTJwAKyxN4G3YWPFfDmnUo3ofu8q2QSWfdxtNUt06b298"
     },
     {
       "url": "https://www.pfa.dk/andet/finanstilsyn/",
       "source": "CRAWL",
       "targetPath": "/andet/finanstilsyn",
-      "id": "4e2f98792d674e174d5f87298efde87bd2fa285a"
+      "id": "55YtaEqYEUM7ASAZ9XmVdSBNy6F7r5zkdLsJFv2ZPtAx"
     },
     {
       "url": "https://www.pfa.dk/andet/legitimation/",
@@ -31,7 +31,7 @@
       "url": "https://www.pfa.dk/andet/produktinformation/",
       "source": "CRAWL",
       "targetPath": "/andet/produktinformation",
-      "id": "9ee1759622a794ef5c694395e36c41ae166f4cf4"
+      "id": "4SxDspwwkviwR3evbZHrPa3Rw13kBr51Nxv86mECyXUF"
     },
     {
       "url": "https://www.pfa.dk/andet/saerlige-undersoegelser/",
@@ -211,7 +211,7 @@
       "url": "https://www.pfa.dk/privat/forsikringer/pfa-helbredssikring/",
       "source": "CRAWL",
       "targetPath": "/privat/forsikringer/pfa-helbredssikring",
-      "id": "aa5feb32cad42af4892587d5f68bad6a7921d340"
+      "id": "7mdCoRPc1omTiZdYY2xG81EvGwN7Z2yodUTX9ZmLm3fx0"
     },
     {
       "url": "https://www.pfa.dk/privat/forsikringer/pfa-helbredssikring/?icid=linklist_nyttigelinks_brugfordinhelbredssikringlaesmere",
@@ -313,7 +313,7 @@
       "url": "https://www.pfa.dk/privat/livsaendringer/arv-og-testamente/",
       "source": "CRAWL",
       "targetPath": "/privat/livsaendringer/arv-og-testamente",
-      "id": "7cedbb129ad277682cbb7726825d842a333363e0"
+      "id": "7mdCoRPc1omTiZdYY2xG81EvGwN7Z2yodUTX9ZmLm3fx0"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/det-gode-seniorliv-hub/",
@@ -349,13 +349,13 @@
       "url": "https://www.pfa.dk/privat/livsaendringer/du-faar-bonus-eller-loenforhoejelse/",
       "source": "CRAWL",
       "targetPath": "/privat/livsaendringer/du-faar-bonus-eller-loenforhoejelse",
-      "id": "9286757e73e5c63aabe2edc2b25c86e9b97c4cd6"
+      "id": "9MRmVsciWKDvwwTaZQCK2NvJE2SeVU8W6EGFmukHTRaB"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/du-har-faaet-nyt-job/",
       "source": "CRAWL",
       "targetPath": "/privat/livsaendringer/du-har-faaet-nyt-job",
-      "id": "c7e49f55e2939de1ee11def34b97c73269af1cf6"
+      "id": "5VVyuV5K6c2gMq1zVeQUFAmo8shPZH28MJCVzccrsZG6"
     },
     {
       "url": "https://www.pfa.dk/privat/livsaendringer/du-skal-giftes",
@@ -403,7 +403,7 @@
       "url": "https://www.pfa.dk/privat/opsparing/begunstigelse/",
       "source": "CRAWL",
       "targetPath": "/privat/opsparing/begunstigelse",
-      "id": "41ff4838cef884b2a143471516f62b587f81d234"
+      "id": "3KFBge3yEg793VqVV1P6fxV7gC9CShh55zmoMcGUNu49"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/bolig-seniorliv/",
@@ -415,7 +415,7 @@
       "url": "https://www.pfa.dk/privat/opsparing/hvad-er-en-pensionsopsparing/",
       "source": "CRAWL",
       "targetPath": "/privat/opsparing/hvad-er-en-pensionsopsparing",
-      "id": "e21795e8cf3c19ef9d53253d674efa55b85c0255"
+      "id": "98EWM95ct8tBYWroCxXYN9vCgN7NTcR6nUsvCx1mEdLZ0255"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/investeringsformer/",
@@ -427,7 +427,7 @@
       "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/",
       "source": "CRAWL",
       "targetPath": "/privat/opsparing/klogere-paa-investeringer",
-      "id": "fc1e976f43d57e9ceacdae3857be611fe4aea880"
+      "id": "DZyZzbGfdMy5GTyn2ah2PDJu8LEoKPq9EhAkFRQ1Fn6K0"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/klogere-paa-investeringer/?icid=spot_faringdenyestetendenserparinginvesteringsomraringdet_",
@@ -469,7 +469,7 @@
       "url": "https://www.pfa.dk/privat/opsparing/pfa-plus-fri/",
       "source": "CRAWL",
       "targetPath": "/privat/opsparing/pfa-plus-fri",
-      "id": "eac8783b4cfe4dd8175ae8552f63299a46df890a"
+      "id": "7mdCoRPc1omTiZdYY2xG81EvGwN7Z2yodUTX9ZmLm3fx0a"
     },
     {
       "url": "https://www.pfa.dk/privat/opsparing/planlaeg-din-opsparing/",
